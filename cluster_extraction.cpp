@@ -10,7 +10,6 @@
 #include <pcl/segmentation/sac_segmentation.h>
 #include <pcl/segmentation/extract_clusters.h>
 
-
 void
 getClusters ()
 {
